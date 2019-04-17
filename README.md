@@ -1,3 +1,11 @@
+## Dependencies
+
+Here in this project in order to install the node modules you have 
+
+### `npm install`
+
+This is used to install all the dependencies in your folder
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
